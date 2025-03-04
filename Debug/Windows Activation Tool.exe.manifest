@@ -43,14 +43,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows Activation Tool.exe" size="131032">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows Activation Tool.exe" size="131544">
       <assemblyIdentity name="Windows Activation Tool" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>c3I1eM5/HDJn1K9t+sfZq1pYXqCdnIuMODXD7IcOAtU=</dsig:DigestValue>
+        <dsig:DigestValue>RYNf0mK2AvZEAoDFLoLLpQzZmHHJnefWD0QwhjmUhw4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
